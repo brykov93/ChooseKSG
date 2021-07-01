@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\QGIS 2.16.1\OSGeo4W.bat D:\my\setup.py py2exe"
